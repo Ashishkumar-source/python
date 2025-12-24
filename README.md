@@ -1,3 +1,4 @@
+## Folder structure
 python-practice-questions/
 ├── variables/
 │   ├── q01_name_age_college.py
